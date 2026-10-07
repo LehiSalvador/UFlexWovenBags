@@ -32,3 +32,7 @@ C#, .NET y WPF.
 ## Documentación de producto
 
 [Contexto y alcance](docs/overview.md) · [Hoja de ruta pública](docs/roadmap.md)
+
+## Contribuir
+
+[Guía de contribución](CONTRIBUTING.md). La validación automática revisa documentos locales; los cambios de producto y datos privados se coordinan por separado.
